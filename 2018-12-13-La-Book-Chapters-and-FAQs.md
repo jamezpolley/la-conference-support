@@ -10,8 +10,6 @@ La Book Chapters and FAQs
 
 [[TOC]]
 
-## ensuring all areas are included in the Code of Conduct
-
 # So, you want to host an LCA in your city?
 
 ## History of LCA
