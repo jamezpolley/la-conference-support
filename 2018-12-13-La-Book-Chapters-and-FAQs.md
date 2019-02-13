@@ -162,42 +162,49 @@ Blahllalalalal
 
 This person's function is to ensure that the Miniconfs are run smoothly. They provide admin support to the organisers and also ensure that the miniconfs are all on track.
 
-The dats below assume a mid/late January conference.
+The dates below assume a mid/late January conference.
 
 Within a few days of the Miniconfs being accepted (usually in late-August or early September)
 
-* Miniconf organisers (and co-organisers) should be added to a mailing list
+* Miniconf organisers (and co-organisers) should be added mailings lists. There should be 2 mailing lists: an "announce" list to send things to all miniconfs, probably called "miniconf-announce" and moderated, and a "discussion amongst miniconf organisers" one, perhaps called "miniconf-discuss"
 * Access the registration system should be setup to allow Miniconfs to run their own CFPs
+  * This process should be well documented and checklists in place for setting people up
+  * Some Miniconfs have multiple organisers than need to be setup
 * Which Miniconfs are on which should be confirmed with the Organisers (to head off potential clashes)
-* The schedule of each Miniconf day should be confirmed.
-  * Times of each sessions, insluding required finish time
+* The schedule of each Miniconf day should be finalised.
+  * Times of each sessions, including required finish time
   * Time of 5 minute break mini-session to allow switches between miniconfs
-* Special room requirements (ie Hardware Miniconfs may need places to solder)
+* Ask Miniconf Organisers about any Special room requirements (ie Hardware Miniconfs may need places to solder)
 * Decide (with rest of team) how Miniconf-only tickets will be handled
+  * Some Options: "Miniconf Speakers only, free for day of speaking" / "Miniconf Speakers only, discounted" / "Open to all, discounted"
 * Decide what perks Miniconf organisers get. Normally the main organiser (only) is equivilent to a conference speaker. Sometimes co-organisers will get perks (ie ability to singup with early-bird rate after that deadline)
 
 Next (September) Miniconfs will be buidling their programme. Some Miniconfs will want to send out CFPs straight away while some will take longer
 
-* The scedule should be confirmed and on the website with a page for each Miniconf linked
-* Some Miniconfs will want special elements in their CFP (such as custom talk lengths). Find out what these are early so you can see if they can be accomidated
-* Decide how the The Miniconf CFPs (or equilnt) should be supported by the conference
+* The schedule should be confirmed and on the website with a page for each Miniconf linked
+* Some Miniconfs will want special elements in their CFP (such as custom talk lengths). Find out what these are early so you can see if they can be accommidated
+* Decide how the The Miniconf CFPs (or equivalent) should be supported by the conference
   * Usually this will be on the conference website (via news feed) and social media (facebook, twitter etc)
-* A list of rejected (and accepted) talks for the conference is usually given to the Miniconf Organisers, this provides a list of people they can approach to give talks
-  * This needs to be extracted from the conference database which may take some time and should be started early
+* A list of rejected (and accepted) talks for the conference will be requested by Miniconf Organisers, this provides a list of people they can approach to give talks
+  * Miniconf Wrangler should arrange for that extract early, and make it available proactively.
+  * A CSV extract from the database is usually sufficient
   * Miniconf organisers find this very good source for speakers.
+  * Employers will often allow/fund someone to attend LCA if they are speaking at a Miniconf. They might not be able to attend otherwise.
 
-By the end of September all the above shoudl be done for all Miniconfs. Some Miniconfs will have send out CFPs already. For the others the wrangler needs to know what their scedule is.
-* Closely monitor the Miniconfs during Octomer and November.
+By the end of September all the above should be done for all Miniconfs. Some Miniconfs will have send out CFPs already. For the others the wrangler needs to know what their schedule is.
+* Closely monitor the Miniconfs during October and November.
 * Every couple of weeks check:
   * For those sending our CFPs ask how many proposals they have so far and how full they programme is. Followup with those that appear to be behind
-  * For Miniconfs shippign hardware or similar check how this is going
-* If not done already allocate rooms accordign to estimated Miniconf size.
-* Remind the organisers regarding Code of Conduction requirements for their speakers
+  * For Miniconfs shipping hardware or similar check how this is going. 
+* If not done already allocate rooms according to estimated Miniconf size. For repeat Miniconfs you should be able to get attendence numbers from previous LCAs or the organisers.
+* Remind the organisers regarding Code of Conduction requirements, recording approvals, etc for their speakers
+* Hardware-based Miniconfs have a great potential to go wrong. Shipping deplays or faulty hardware can quickly leave the Miniconf unrunable. 
 
-If a miniconf is is having problems such as problems gettign speakers then advise others on the organising team and do you bets to help them.
+If a miniconf is is having problems such as problems getting speakers then advise others on the organising team and do you best to help them.
+* Encourage Miniconf organisers to ask on miniconf-discuss list, as other Miniconf organisers might be locals and know who else to contact
 * There may be a meetup group in the LCA city that would be interested in the Miniconf but is not aware of it. Use you contacts or see if others know any.
-* Don't let problems drag on. Fixing things at the last minute might not be an option.
-* If a miniconf is unable to fill their whole day then other Miniconfs could be extended or a new event ( BOFS perhaps) could fill the gap
+* Don't let problems drag on. Fixing things at the last minute might be too late.
+* If a Miniconf is unable to fill their whole day then other Miniconfs could be extended or a new event (BOFS perhaps) could fill the gap
 
 TODO for Miniconf Wrangler
 - Program in mid-decemeber
