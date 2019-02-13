@@ -190,6 +190,10 @@ Next (September) Miniconfs will be buidling their programme. Some Miniconfs will
   * A CSV extract from the database is usually sufficient
   * Miniconf organisers find this very good source for speakers.
   * Employers will often allow/fund someone to attend LCA if they are speaking at a Miniconf. They might not be able to attend otherwise.
+* Some Miniconfs may need additional help. Possible examples
+  * Hardware Miniconfs may need to shipping hardware and have it stored.
+  * Miniconfs may want advice about local groups to reach out to.
+  * Miniconf speakers may have VISA problems
 
 By the end of September all the above should be done for all Miniconfs. Some Miniconfs will have send out CFPs already. For the others the wrangler needs to know what their schedule is.
 * Closely monitor the Miniconfs during October and November.
@@ -206,11 +210,26 @@ If a miniconf is is having problems such as problems getting speakers then advis
 * Don't let problems drag on. Fixing things at the last minute might be too late.
 * If a Miniconf is unable to fill their whole day then other Miniconfs could be extended or a new event (BOFS perhaps) could fill the gap
 
-TODO for Miniconf Wrangler
-- Program in mid-decemeber
-- Stuff for the week beforehand
-- Stuff During the program
+By Mid-December the following should all be in place
+* Miniconfs should publish draft schedules to look out for clashing talks/speakers and these should be sorted
+* Schedules for all Miniconfs should be up on the website
+* All Miniconf organisers should be registered
+* If possible check if Miniconf speakers are also registered
+* Hardware-based Miniconfs should have have everythign shipped and in place.
+* If possible Miniconfs should have contingencies in case of speaker cancellations.
 
+In the Week beforehand
+* Some Miniconf organisers may be interested in a tour of the rooms on the Sunday before LCA
+* If a Main-conference speaker cancels or is delayed then they will sometimes forget to also tell any Miniconfs they are speaking at. Relay this in case.
+* Confirm with the video people what requirements there are for miniconfs. For those Miniconfs with a lot of speakers an extra podium and microphones allow one speaker to be setup while the other is still speaking.
+* Make sure room monitors know what to expect
+* Let the organisers know about the room arrangements above.
+
+During the Conference
+* Be available
+
+
+#### Other volunteers
 
 Some key points about your volunteers:
 
